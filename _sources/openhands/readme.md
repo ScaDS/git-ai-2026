@@ -1,4 +1,4 @@
-# Option 2: OpenHands
+# AllHands / OpenHands
 
 ## Basic plotting requests
 
