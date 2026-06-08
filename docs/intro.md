@@ -9,7 +9,9 @@ The main rationale of using the AI-agents in the browser is to document reproduc
 
 ## Target audience and teaching goal
 
-The exercises are written for scientists with basic experience in programming and with git. Attendees can choose an AI-Agent system and follow exercises step-by-step. Afterwards, goal is to explore the limits of the technology. Only if we know where it succeeds and fails we can use it responsibly.
+The exercises are written for scientists with basic experience in programming and with git. We will explore AI-agent systems that can solve coding tasks and assist with scientific data analysis. 
+
+Attendees can choose an AI-Agent system and follow exercises step-by-step. Afterwards, goal is to explore the limits of the technology. Only if we know where it succeeds and fails we can use it responsibly.
 
 ## Read more
 
