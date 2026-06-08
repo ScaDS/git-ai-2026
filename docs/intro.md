@@ -2,7 +2,7 @@
 
 This page contains training materials for using Git in combination with modern AI-Agents such as 
 * [Github Copilot](https://github.com/features/copilot)
-* [Openhands / All-Hands](https://app.all-hands.dev/)
+* [Openhands / All-Hands](https://www.openhands.dev/)
 * [Git-Bob](https://github.com/haesleinhuepf/git-bob) (developed in Leipzig, available on the Scientific Computing Gitlab sovereign IT infrastructure)
 
 The main rationale of using the AI-agents in the browser is to document reproducibly which parts of a work has been done by humans and which part was done by an AI-agent. Another advantage of this approach is that we  do not need to download anything, we typically can try out things in the browser first.
