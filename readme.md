@@ -1,6 +1,6 @@
-# LLMs for Data Analysis
+# Git+AI Training
 
-This notebook collection introduces how to use large language models for data analysis code generation. The materials are rendered to this url:
+This notebook collection introduces how to Git in combination with modern AI agents. The materials are rendered to this url:
 
-https://scads.github.io/llm-data-analysis-2026/intro.html
+https://scads.github.io/git-ai-2026/intro.html
 

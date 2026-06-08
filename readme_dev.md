@@ -5,8 +5,8 @@ It is maintained using [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable
 To edit this book, install dependencies like this:
 
 ```
-git clone https://github.com/scads/embo-repro-bia-2025
-cd embo-repro-bia-2025
+git clone https://github.com/scads/git-ai-2026
+cd git-ai-2026
 
 pip install -r requirements.txt
 pip install jupyterlab jupyter-book jupyterlab-spellchecker
