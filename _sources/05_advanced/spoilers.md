@@ -20,3 +20,6 @@
 * [Creating SVG-Files](https://github.com/haesleinhuepf/git-bob-playground/issues/187)
 
 * [Drawing fractal art](https://github.com/haesleinhuepf/fractal-art/pull/1)
+
+* [Snake-Game](https://git.sc.uni-leipzig.de/scadsai/git-bob-test/-/merge_requests/6)
+
