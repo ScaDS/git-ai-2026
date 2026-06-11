@@ -11,9 +11,9 @@ parts:
 
   - caption: Basic Usage
     chapters:
-    - file: github-copilot/readme
-    - file: openhands/readme
-    - file: git-bob/readme
+    - file: 02_github-copilot/readme
+    - file: 03_openhands/readme
+    - file: 04_git-bob/readme
 
   - caption: Advanced Usage
     chapters:
@@ -22,6 +22,8 @@ parts:
     
   - caption: Links
     chapters:
+    - url: https://doi.org/10.5281/zenodo.20639389
+      title: Slides
     - url: https://creativecommons.org/licenses/by/4.0/
       title: License CC-BY 4.0
     - file: imprint

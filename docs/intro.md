@@ -20,6 +20,11 @@ Recommended literature:
 * [Wang et al. "OpenHands: An Open Platform for AI Software Developers as Generalist Agents", ICLR 2025](https://arxiv.org/abs/2407.16741)
 * [Haase "Towards transparency and knowledge exchange in AI-assisted data analysis code generation", Nat. Comput. Sci 2025](https://doi.org/10.1038/s43588-025-00781-1)
 
+## Trainers
+
+* [Dr. Ilona Lipp](https://orcid.org/0000-0002-5644-2057), Leipzig University
+* [Dr. Robert Haase](https://haesleinhuepf.github.io/), [ScaDS.AI Dresden/Leipzig](http://scads.ai/)
+
 
 ## Acknowledgements
 
